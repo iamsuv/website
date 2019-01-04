@@ -2,4 +2,8 @@
 this is a readme2 .md file for feature branch
 
 #update
+<<<<<<< HEAD
 djslvnslk
+=======
+djsfhsj
+>>>>>>> update_readme
